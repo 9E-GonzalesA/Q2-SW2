@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/053bbc8c-f68a-4a6f-ac1e-73adfc595e01/HOME+1+-+RAF08085.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.rounded-circle{
+    width: 100px;
+    padding: 5px;
+}
+
+.container{
+    border-radius: 10px;
+}
+
+h2{
+    margin-top: 10px;
+}
